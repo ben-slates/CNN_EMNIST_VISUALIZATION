@@ -6,7 +6,7 @@ This project implements Convolutional Neural Networks (CNNs) to classify handwri
 - [Project Structure](#project-structure)
 - [System Requirements](#system-requirements)
 - [Getting Started](#getting-started)
-    - [Step 1: Install Python 3.11.7](#step-1-install-python-3117)
+    - [Step 1: Install Python 3.13.7](#step-1-install-python-3137)
     - [Step 2: Create Virtual Environment (Recommended)](#step-2-create-virtual-environment-recommended)
     - [Step 3: Install Required Libraries](#step-3-install-required-libraries)
     - [Step 4: Train the Models](#step-4-train-the-models)
@@ -41,7 +41,7 @@ CNN_EMNIST_VISUALIZATION/
 
 | Requirement | Details |
 | :--- | :--- |
-| **Python Version** | **3.11.7** (Crucial for compatibility) |
+| **Python Version** | **3.13.7 or above** (Crucial for compatibility) |
 | Operating System | Windows / Linux / macOS |
 | Internet Access | Required only for initial library installation |
 
@@ -53,7 +53,7 @@ Follow these steps to set up the project, train the models, and run the visualiz
 
 It is essential to use the specified Python version for library compatibility.
 
-1.  Download Python 3.11.7 from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1.  Download Python 3.13.7 from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2.  During the installation process, ensure you check the box for **`Add Python to PATH`**.
 3.  Verify the installation by opening a terminal or command prompt and running:
 
@@ -61,7 +61,7 @@ It is essential to use the specified Python version for library compatibility.
     python --version
     ```
 
-    The output should confirm the version: `Python 3.11.7`.
+    The output should confirm the version: `Python 3.13.7`.
 
 ### Step 2: Create Virtual Environment (Recommended)
 
